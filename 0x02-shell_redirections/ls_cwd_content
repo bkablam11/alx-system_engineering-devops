@@ -1,16 +1,23 @@
-total 48
-drwxr-xr-x 2 root root 277 Apr  4 03:14 .
-drwxr-xr-x 6 root root 104 Apr  4 02:27 ..
--rwxr-xr-x 1 root root  32 Apr  4 02:32 0-hello_world
--rwxr-xr-x 1 root root  28 Apr  4 02:44 1-confused_smiley
--rwxr-xr-x 1 root root  28 Apr  4 02:47 2-hellofile
--rwxr-xr-x 1 root root  39 Apr  4 02:52 3-twofiles
--rwxr-xr-x 1 root root  35 Apr  4 02:55 4-lastlines
--rwxr-xr-x 1 root root  35 Apr  4 02:57 5-firstlines
--rwxr-xr-x 1 root root  40 Apr  4 03:01 6-third_line
--rwxr-xr-x 1 root root  82 Apr  4 03:12 7-file
--rwxr-xr-x 1 root root  35 Apr  4 03:11 8-cwd_state
--rw-r--r-- 1 root root  12 Apr  4 03:10 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rwxr-xr-x 1 root root  60 Apr  4 02:28 gitbash
--rw-r--r-- 1 root root 726 Apr  4 02:59 iacta
--rw-r--r-- 1 root root   0 Apr  4 03:14 ls_cwd_content
+total 64
+drwxr-xr-x 6 root root 4096 Apr  4 10:34 .
+drwxr-xr-x 6 root root  104 Apr  4 02:27 ..
+-rwxr-xr-x 1 root root   32 Apr  4 02:32 0-hello_world
+-rwxr-xr-x 1 root root   46 Apr  4 03:39 10-no_more_js
+-rwxr-xr-x 1 root root   28 Apr  4 02:44 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Apr  4 02:47 2-hellofile
+-rwxr-xr-x 1 root root   39 Apr  4 02:52 3-twofiles
+-rwxr-xr-x 1 root root   35 Apr  4 02:55 4-lastlines
+-rwxr-xr-x 1 root root   35 Apr  4 02:57 5-firstlines
+-rwxr-xr-x 1 root root   40 Apr  4 03:01 6-third_line
+-rwxr-xr-x 1 root root   82 Apr  4 03:12 7-file
+-rwxr-xr-x 1 root root   36 Apr  4 03:16 8-cwd_state
+-rwxr-xr-x 1 root root   37 Apr  4 03:25 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Apr  4 03:10 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+drwxr-xr-x 4 root root   30 Apr  4 03:31 dir1
+drwxr-xr-x 4 root root   30 Apr  4 03:31 dir2
+drwxr-xr-x 4 root root   30 Apr  4 03:31 dir3
+drwxr-xr-x 4 root root   30 Apr  4 03:31 dir4.js
+-rwxr-xr-x 1 root root   60 Apr  4 02:28 gitbash
+-rw-r--r-- 1 root root  838 Apr  4 03:23 iacta
+-rw-r--r-- 1 root root    0 Apr  4 10:34 ls_cwd_content
+-rw-r--r-- 1 root root   19 Apr  4 10:29 README.md
